@@ -154,8 +154,29 @@ Note:
 * Being a Software Engineer
 * **Closing Thoughts**
 
-Note:
++++
 
-* There's no one way: Bootcamps, the smartest guy I know doesn't have any degree.
+# Software is Everywhere
+
+* Aviation, Biology, Robotics 🤖
+* Diverse backgrounds in other sciences like Math and Physics are great 🔥
+
++++
+
+# There's no One Way
+
+* College
+* Bootcamps
+* Self Taught
+
+Note:
+* If you want to get into this field
 * You can learn to code now.
 * You can always ask me questions.
+
++++
+
+# Thank You 
+
+Note:
+* Questions?
