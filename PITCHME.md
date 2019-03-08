@@ -23,6 +23,9 @@ div#headerLogoGreen {
 
 ![](img/types-and-salaries.png)
 
+Note:
+* The two bars on the right are where math and physics mostly come into play.
+
 +++
 
 # Up Next
@@ -84,10 +87,60 @@ Note:
 
 +++
 
-![](img/foos-bot.gif)
+### Air Traffic Management
+
+![](img/atm.png)
 
 Note:
-* Focus on projects at Boeing, demo lipidomics and snickerdoodle.Flight Simulators!!
+* Project: Provide up to date weather forecasts to optimize flight plans.
+* Required some math and the basic understand of the physics of flight.
+
++++
+
+### 787 Network Security
+
+![](img/small_network_hub.png)
+
+Note:
+* Project: To monitor network traffic and detect anomalies.
+* Based on Dendritic Cells and how they detect bad things in the body.
+* We actually had a math guy that would write complex math and I would just implement it in code.
+
++++
+
+### Aerial Refueler
+@snap[east]
+![](img/flight_sim.png)
+@snapend
+
+@snap[west]
+![](img/ar.png)
+@snapend
+
+Note:
+* Project: To simulate the KC46 Boeing Aerial Refueler for pilot training and flight test verification
+* I admit, I didn't actually code on this project. I was just the project manager.
+* Lots of hardware and lots of math and modeling of physics required.
+
++++
+
+### Airplane Health Management
+
+```js
+let cpc_1 = data & 0b1000011
+if (cpc_1 && preconditions) {
+  if (hi_pressure === 1) {
+    let reason_code = "10"
+    send_report(reason_code)
+  }
+}
+```
+
+Note:
+* Project: To predict failures in equipment to keep planes flying more often.
+* This project requires lots of working with Binary.
+* Does anyone know what Binary is?
+* Does anyone know why Binary runs everything?
 
 ---
 
