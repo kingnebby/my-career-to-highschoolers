@@ -108,7 +108,10 @@ Note:
 
 +++
 
+@snap[north]
 ### Aerial Refueler
+@snapend
+
 @snap[east]
 ![](img/flight_sim.png)
 @snapend
