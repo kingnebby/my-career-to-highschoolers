@@ -113,9 +113,9 @@ Note:
 <!-- ![](img/flight_sim.png) -->
 <!-- @snapend -->
 
-@snap[west]
-![](img/ar.png)
-@snapend
+<!-- @snap[west] -->
+![](img/boeing_ar.png)
+<!-- @snapend -->
 
 Note:
 * Project: To simulate the KC46 Boeing Aerial Refueler for pilot training and flight test verification
