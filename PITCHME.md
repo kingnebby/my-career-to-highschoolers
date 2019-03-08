@@ -109,9 +109,9 @@ Note:
 +++
 
 ### Aerial Refueler
-@snap[east]
-![](img/flight_sim.png)
-@snapend
+<!-- @snap[east] -->
+<!-- ![](img/flight_sim.png) -->
+<!-- @snapend -->
 
 @snap[west]
 ![](img/ar.png)
