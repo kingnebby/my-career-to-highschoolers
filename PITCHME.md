@@ -9,8 +9,9 @@ Note:
 
 # Demo
 
+[HIS Ministry Coop](http://hisministrycoop.org)
+
 Note:
-* http://www.hisministrycoop.org/
 ```
 div#headerLogoGreen {
     background-image:url("https://cataas.com/cat/funny?width=300&height=300");
@@ -65,7 +66,7 @@ Note:
 
 ### A Unlikely Finish
 
-* Graduated and proceed to... ¡Mexico!
+* Graduated and proceed to... ✈️ ¡Mexico! 🇲🇽
 * Connections at Boeing
 
 Note:
