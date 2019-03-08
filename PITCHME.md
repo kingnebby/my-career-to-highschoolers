@@ -41,19 +41,6 @@ div#headerLogoGreen {
 
 +++
 
-### Education at a Glance
-
-* Homeschooled, Private Schooled, Running Start
-* Graduted with a 2 year Associates of Science Degree
-* Pursued a BS in Computer Science and Systems
-* 5 1/2 yrs, working 3 jobs and had 10K in debt
-
-Note:
-* Cover content
-* **But now let's rewind**
-
-+++
-
 ### First Exposure
 
 ![](img/warcraft-map-editor.png)
@@ -64,32 +51,19 @@ Note:
 
 +++
 
-### Inspiration
+### Education at a Glance
 
-* Uncle Steven
-* Janet Ash
-
-Note:
-* At 15 yrs old I had to make a decision
-* I really didn't know what I wanted to do, I just knew that I loved solving problems and was good at spending time in front of a computer
-
-+++
-
-### Interruptions
-
-* Denied from UW Seattle
-* Failed an entire college quarter 
-* I had two bands
-
-Note:
-* My mom wouldn't let me drop out. Listen to your mommas!
+* Home-schooled, Private Schooled, Running Start
+* Graduated with a 2 year Associates of Science Degree
+* Pursued a BS in Computer Science and Systems
+* 5 1/2 yrs, working 3 jobs and had 10K in debt
 
 +++
 
 ### A Unlikely Finish
 
 * Graduated and proceed to... ¡Mexico!
-* Uncle Steven, again
+* Connections at Boeing
 
 Note:
 * I was terrified of the idea of sitting behind a desk ALL day
@@ -105,8 +79,12 @@ Note:
 * **Being a Software Engineer**
 * Closing Thoughts
 
+Note:
+* I want to share a few projects with you to tell you what it's like doing my job.
+
 +++
 
+![](img/foos-bot.gif)
 
 Note:
 * Focus on projects at Boeing, demo lipidomics and snickerdoodle.Flight Simulators!!
