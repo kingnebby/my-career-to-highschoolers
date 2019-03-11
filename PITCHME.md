@@ -139,6 +139,10 @@ Note:
 ![](img/flight_sim.png)
 @snapend
 
+@snap[midpoint]
+![](img/boom-op.jpg)
+@snapend
+
 @snap[west]
 ![](img/boeing_ar.png)
 @snapend
