@@ -78,6 +78,7 @@ Note:
 * Graduated and proceed to...
 
 +++
+---?image=img/mexian.jpg&size=200% 200%
 
 @snap[north-east]
 🇲🇽
@@ -92,7 +93,6 @@ Note:
 🎉
 @snapend
 
----?image=img/mexian.jpg
 <!-- @snap[midpoint]
 ![](img/mexian.jpg)
 @snapend -->
