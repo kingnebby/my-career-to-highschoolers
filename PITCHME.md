@@ -122,7 +122,7 @@ Note:
 
 ### 787 Network Security
 
-![](img/small_network_hub.png)
+![](img/small-network-hub.png)
 
 Note:
 * Project: To monitor network traffic and detect anomalies.
@@ -150,6 +150,7 @@ Note:
 Note:
 * Project: To simulate the KC46 Boeing Aerial Refueler for pilot training and flight test verification
 * I admit, I didn't actually code on this project. I was just the project manager.
+* Often times our job is to model real world things. *What do you think we were modeling on a project like this?*
 * Lots of hardware and lots of math and modeling of physics required.
 
 +++
@@ -168,9 +169,10 @@ if (cpc_1 && preconditions) {
 
 Note:
 * Project: To predict failures in equipment to keep planes flying more often.
+* Here's some code that shows kind of how it works.
 * This project requires lots of working with Binary.
-* Does anyone know what Binary is?
-* Does anyone know why Binary runs everything?
+* *Does anyone know what Binary is?*
+* *Does anyone know why Binary runs everything?*
 
 ---
 
@@ -182,23 +184,25 @@ Note:
 
 +++
 
-# Software is Everywhere
+### Software is Everywhere
 
-* Aviation, Biology, Robotics 🤖
+* 🚀Aviation, 💪Biology, 🤖Robotics
 * Diverse backgrounds in other sciences like Math and Physics are great 🔥
 
 +++
 
-# There's no One Way
+### There's no One Way
 
 * College
 * Bootcamps
+  * Galvanize
+  * Praxis
 * Self Taught
 
 Note:
 * If you want to get into this field
-* You can learn to code now.
-* You can always ask me questions.
+  * You can learn to code now.
+  * You can always ask me questions.
 
 +++
 
