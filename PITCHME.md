@@ -36,7 +36,7 @@ Note:
 * Being a Software Engineer
 * Closing Thoughts
 
-Note
+Note:
 * I want to share with you how I got here.
 * I want to share a few of the project I've been privileged to work on.
 
@@ -92,7 +92,7 @@ Note:
 🎉
 @snapend
 
-@snap[center]
+@snap[midpoint]
 ![](img/mexian.jpg)
 @snapend
 
