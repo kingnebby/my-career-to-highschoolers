@@ -207,7 +207,8 @@ Note:
 +++
 
 ### Theodore Roosevelt
-> There are two kinds of success. One is the rare kind that comes to the person who has the power to do what no one else has the power to do. That is genius. But the average person who wins what we call success is not a genius. That person is a man or woman who has merely the ordinary qualities that they share with their fellows, but has developed those ordinary qualities to a more than ordinary degree.
+
+There are two kinds of success. One is the rare kind that comes to the person who has the power to do what no one else has the power to do. That is genius. But the average person who wins what we call success is not a genius. That person is a man or woman who has merely the ordinary qualities that they share with their fellows, but has developed those ordinary qualities to a more than ordinary degree.
 
 Note:
 * Whatever you end up doing, do it well, and you'll enjoy your work and be successful.
