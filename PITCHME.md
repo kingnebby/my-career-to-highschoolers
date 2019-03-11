@@ -80,16 +80,16 @@ Note:
 +++?image=img/mexian.jpg
 
 @snap[north-east]
-🇲🇽
+🇲🇽 🇲🇽 🇲🇽 🇲🇽
 @snapend
 @snap[north-west]
-🌮
+🌮 🌮 🌮 🌮
 @snapend
 @snap[south-east]
-✈️
+✈️ ✈️ ✈️ ✈️
 @snapend
 @snap[south-west]
-🎉
+🎉 🎉 🎉 🎉
 @snapend
 
 Note:
