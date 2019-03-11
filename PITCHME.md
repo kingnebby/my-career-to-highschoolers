@@ -92,9 +92,7 @@ Note:
 🎉
 @snapend
 
-@snap[midpoint]
-![](img/mexian.jpg)
-@snapend
+---?image=img/mexian.jpg
 
 Note:
 * I'll explain mexico some other time, but the point is, I was still unsure if this was really what I wanted to do.
