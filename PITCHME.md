@@ -78,7 +78,7 @@ Note:
 * Graduated and proceed to...
 
 +++
----?image=img/mexian.jpg&size=200% 200%
+---?image=img/mexian.jpg&size=cover
 
 @snap[north-east]
 🇲🇽
@@ -92,10 +92,6 @@ Note:
 @snap[south-west]
 🎉
 @snapend
-
-<!-- @snap[midpoint]
-![](img/mexian.jpg)
-@snapend -->
 
 Note:
 * I'll explain mexico some other time, but the point is, I was still unsure if this was really what I wanted to do.
