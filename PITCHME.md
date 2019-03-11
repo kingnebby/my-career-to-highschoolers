@@ -77,8 +77,7 @@ Note:
 
 * Graduated and proceed to...
 
-+++
----?image=img/mexian.jpg&size=cover
++++?image=img/mexian.jpg&size=cover
 
 @snap[north-east]
 🇲🇽
