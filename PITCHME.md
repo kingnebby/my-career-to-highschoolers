@@ -2,8 +2,9 @@
 > Software Engineer
 
 Note:
-* Introduce yourself
-* What does a software engineer do?
+* Hello world!
+* Software Engineering, Programming, Coding, it's all the same idea.
+* *What does a software engineer do?*
 
 +++
 
@@ -35,6 +36,10 @@ Note:
 * Being a Software Engineer
 * Closing Thoughts
 
+Note
+* I want to share with you how I got here.
+* I want to share a few of the project I've been privileged to work on.
+
 --- 
 
 # Up Next
@@ -62,17 +67,38 @@ Note:
 * Pursued a BS in Computer Science and Systems
 * 5 1/2 yrs, working 3 jobs and had 10K in debt
 
+Note:
+* 2 yr AS: I was planning to be an EE, but switched.
+* 5 1/2 yrs: I doesn't normally take that long, but it will if you do smart things like fail an entire quarter.
+
 +++
 
-### A Unlikely Finish
+### An Unlikely Finish
 
-* Graduated and proceed to... ✈️ ¡Mexico! 🇲🇽
-* Connections at Boeing
+* Graduated and proceed to...
+
++++
+
+@snap[north-east]
+🇲🇽
+@snapend
+@snap[north-west]
+🌮
+@snapend
+@snap[south-east]
+✈️
+@snapend
+@snap[south-west]
+🎉
+@snapend
+
+@snap[center]
+![](img/mexian.jpg)
+@snapend
 
 Note:
+* I'll explain mexico some other time, but the point is, I was still unsure if this was really what I wanted to do.
 * I was terrified of the idea of sitting behind a desk ALL day
-* I went to Mexico to job-shadow a Missionary
-* Decided that someone had to fund him and I was years away from that level of maturity
 * Uncle Steven landed me a job just in time for me to ask Emily Watts out on a date
 
 ---
