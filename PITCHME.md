@@ -65,7 +65,7 @@ Note:
 * Home-schooled, Private Schooled, Running Start
 * Graduated with a 2 year Associates of Science Degree
 * Pursued a BS in Computer Science and Systems
-* 5 1/2 yrs, working 3 jobs and had 10K in debt
+* **Total:** 5 1/2 yrs, working 3 jobs and had 10K in debt
 
 Note:
 * 2 yr AS: I was planning to be an EE, but switched.
@@ -203,6 +203,14 @@ Note:
 * If you want to get into this field
   * You can learn to code now.
   * You can always ask me questions.
+
++++
+
+### Theodore Roosevelt
+> There are two kinds of success. One is the rare kind that comes to the person who has the power to do what no one else has the power to do. That is genius. But the average person who wins what we call success is not a genius. That person is a man or woman who has merely the ordinary qualities that they share with their fellows, but has developed those ordinary qualities to a more than ordinary degree.
+
+Note:
+* Whatever you end up doing, do it well, and you'll enjoy your work and be successful.
 
 +++
 
